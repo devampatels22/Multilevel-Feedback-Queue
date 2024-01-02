@@ -1,4 +1,4 @@
-# Assignment 3
+# MLFQ
 
 # To Compile
 - Type "make" that compiles all the .c files
